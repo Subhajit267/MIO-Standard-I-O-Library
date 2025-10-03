@@ -6,7 +6,6 @@
 ![POSIX](https://img.shields.io/badge/API-POSIX%20I/O-green)
 ![Buffered I/O](https://img.shields.io/badge/Architecture-Buffered%20I/O-orange)
 ![Testing](https://img.shields.io/badge/Testing-100%25%20Passing-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 **Custom C implementation of a buffered standard I/O library using low-level POSIX functions**
 
